@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Hat", "The Hat\The Hat.csproj", "{1D29D75D-6CF5-4D4A-B34C-1384A23724FA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "The Hat Setup", "The Hat Setup\The Hat Setup.vdproj", "{3B780705-83AA-4244-AE7C-50A53D51AC14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D29D75D-6CF5-4D4A-B34C-1384A23724FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D29D75D-6CF5-4D4A-B34C-1384A23724FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D29D75D-6CF5-4D4A-B34C-1384A23724FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D29D75D-6CF5-4D4A-B34C-1384A23724FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B780705-83AA-4244-AE7C-50A53D51AC14}.Debug|Any CPU.ActiveCfg = Debug
+		{3B780705-83AA-4244-AE7C-50A53D51AC14}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A96A47-0EC9-4EB2-A74C-9DBC01D04D63}
+	EndGlobalSection
+EndGlobal
